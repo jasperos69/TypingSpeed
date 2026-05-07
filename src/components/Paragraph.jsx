@@ -1,0 +1,10 @@
+export default function Paragraph() {
+  return (
+    <p className="target-text">
+      He couldn't move. His head throbbed and spun. He couldn't decide if it was
+      the flu or the drinking last night. It was probably a combination of both.
+    </p>
+  );
+}
+export let para =
+  "He couldn't move. His head throbbed and spun. He couldn't decide if it was the flu or the drinking last night. It was probably a combination of both.";
